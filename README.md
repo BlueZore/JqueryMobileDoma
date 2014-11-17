@@ -1,4 +1,4 @@
 JqueryMobileDoma
 ================
 
-jquery mobile doma
+jquery mobile 针对手机实例
